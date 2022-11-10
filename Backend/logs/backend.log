@@ -263,3 +263,9 @@
 10.11.2022, 19:03:41 - INFO - Server is running on port: 5173 
 10.11.2022, 19:50:35 - INFO - Server is running on port: 5173 
 10.11.2022, 19:52:08 - INFO - Server is running on port: 3030 
+10.11.2022, 19:54:29 - DEBUG - auth.service - signup with username: Jack, fullname: Jack Feldman 
+10.11.2022, 19:54:44 - DEBUG - auth.service - signup with username: Matt, fullname: Matt Hardy 
+10.11.2022, 19:54:57 - DEBUG - auth.service - signup with username: Mike, fullname: Mike Levinsky 
+10.11.2022, 19:55:11 - DEBUG - auth.service - signup with username: Kurt, fullname: Kurt Cobain 
+10.11.2022, 19:59:19 - DEBUG - auth.service - signup with username: Nadav, fullname: Nadav Vazana 
+10.11.2022, 20:03:29 - INFO - Server is running on port: 3030 
