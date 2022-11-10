@@ -21,6 +21,7 @@
 </template>
 
 <script>
+import { userService } from '../services/user.service'
 import chatPreview from './chat-preview.vue'
 export default {
     created(){
@@ -45,6 +46,10 @@ export default {
     },
     components:{
         chatPreview
+    },
+    async created(){
+        const users = await userService.getUsers()
+        this.$store.dispatch({type:'setUsers',users})
     },
     methods:{
         async onSend(){

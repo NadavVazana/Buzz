@@ -1,0 +1,1 @@
+.message-preview{padding:10px;display:flex;flex-direction:column;align-items:center;background-color:#fff}.message-preview h5,.message-preview h4{word-break:break-all}.message-preview img{width:30px}.inbox ul{padding:10px;list-style-type:none;display:grid;gap:15px;grid-template-columns:repeat(auto-fill,minmax(150px,1fr))}

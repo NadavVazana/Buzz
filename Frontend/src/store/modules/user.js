@@ -5,7 +5,7 @@ export default{
     state:{
         loggedInUser:{user:userService.getLoggedInUser()} ,
         msg:'',
-        users:await userService.getUsers()
+        users:null
 
     },
     mutations:{
@@ -24,7 +24,6 @@ export default{
             state.users = [...updatedUsers]
         },
         loadUsers(state,{users}){
-            console.log(users);
             state.users = [...JSON.parse(JSON.stringify(users))]
         }
         
@@ -75,8 +74,10 @@ export default{
         async applyLoginSocket({commit},{user}){
             const users = await userService.getUsers()
             commit({type:'loadUsers',users})
+        },
+        setUsers({commit},{users}){
+            commit({type:'loadUsers',users})
         }
-
 
 
     },

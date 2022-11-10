@@ -11,6 +11,7 @@
 
 <script>
 import statusPreview from './status-preview.vue'
+import { statusService } from '../services/status.service'
 export default {
     methods:{
         async handleScroll(isVisible){
@@ -20,9 +21,12 @@ export default {
     },
   components: { statusPreview },
   async created(){
-    const statuses =await this.$store.getters.statuses
+    const statuses = await statusService.query()
+    this.$store.dispatch({type:'setStatuses',statuses})
+    // const statuses =await this.$store.getters.statuses
     this.msg = this.$store.getters.loaderText
-    this.statuses = statuses
+    this.statuses = this.$store.getters.statuses
+    console.log(this.statuses);
     
   },
 

@@ -3,7 +3,7 @@ import { statusService } from "../../services/status.service.js";
 
 export default{
     state:{
-        statuses:await statusService.query(),
+        statuses:{},
         loaderText:'Loading more posts...'
 
     },
@@ -87,6 +87,10 @@ export default{
         },
         async applySocket({commit},{statuses}){
             const updatedStatuses = await statusService.query()
+            commit({type:'setStatuses',updatedStatuses})
+        },
+        setStatuses({commit},{statuses}){
+            let updatedStatuses = statuses
             commit({type:'setStatuses',updatedStatuses})
         }
 
