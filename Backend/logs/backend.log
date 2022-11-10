@@ -1,0 +1,257 @@
+30.10.2022, 14:40:35 - INFO - Server is running on port: 3030 
+30.10.2022, 14:40:36 - INFO - Server is running on port: 3030 
+8.11.2022, 14:09:48 - INFO - Server is running on port: 3030 
+8.11.2022, 14:12:11 - INFO - Server is running on port: 3030 
+8.11.2022, 14:12:29 - INFO - Server is running on port: 3030 
+8.11.2022, 14:13:02 - ERROR - cannot find users | ReferenceError: logger is not defined 
+8.11.2022, 14:13:02 - ERROR - Failed to get users | ReferenceError: logger is not defined 
+8.11.2022, 14:13:12 - INFO - Server is running on port: 3030 
+8.11.2022, 14:13:29 - INFO - Server is running on port: 3030 
+8.11.2022, 14:13:49 - INFO - Server is running on port: 3030 
+8.11.2022, 14:13:52 - INFO - Server is running on port: 3030 
+8.11.2022, 14:17:24 - INFO - Server is running on port: 3030 
+8.11.2022, 14:17:26 - ERROR - cannot find users | ReferenceError: logger is not defined 
+8.11.2022, 14:17:26 - ERROR - Failed to get users | ReferenceError: logger is not defined 
+8.11.2022, 14:21:03 - ERROR - cannot find users | ReferenceError: logger is not defined 
+8.11.2022, 14:21:03 - ERROR - Failed to get users | ReferenceError: logger is not defined 
+8.11.2022, 14:21:17 - INFO - Server is running on port: 3030 
+8.11.2022, 14:23:08 - INFO - Server is running on port: 3030 
+8.11.2022, 14:24:50 - INFO - Server is running on port: 3030 
+8.11.2022, 14:24:55 - INFO - Server is running on port: 3030 
+8.11.2022, 14:27:23 - INFO - Server is running on port: 3030 
+8.11.2022, 14:27:41 - INFO - Server is running on port: 3030 
+8.11.2022, 14:27:48 - INFO - Server is running on port: 3030 
+8.11.2022, 14:28:01 - INFO - Server is running on port: 3030 
+8.11.2022, 19:10:56 - INFO - Server is running on port: 3030 
+8.11.2022, 19:12:00 - DEBUG - auth.service - signup with username: Guzzi, fullname: Nadav Vazana 
+8.11.2022, 19:12:00 - ERROR - Failed to signup Error: data must be a string or Buffer and salt must either be a salt string or a number of rounds 
+8.11.2022, 19:12:11 - DEBUG - auth.service - signup with username: Guzzi, fullname: Nadav Vazana 
+8.11.2022, 19:12:41 - INFO - Server is running on port: 3030 
+8.11.2022, 20:16:09 - INFO - Server is running on port: 3030 
+8.11.2022, 21:36:54 - INFO - Server is running on port: 3030 
+8.11.2022, 21:40:22 - INFO - Server is running on port: 3030 
+8.11.2022, 21:40:59 - INFO - Server is running on port: 3030 
+8.11.2022, 21:44:58 - DEBUG - auth.service - signup with username: Guzzi, fullname: Nadav Vazana 
+8.11.2022, 22:19:06 - INFO - Server is running on port: 3030 
+8.11.2022, 22:20:10 - INFO - Server is running on port: 3030 
+8.11.2022, 22:34:47 - DEBUG - auth.service - signup with username: Boria, fullname: Boris Rejkov 
+8.11.2022, 22:35:22 - DEBUG - auth.service - signup with username: Nana, fullname: Nana Megidish 
+8.11.2022, 22:36:43 - DEBUG - auth.service - signup with username: Puki, fullname: Puki Baba 
+8.11.2022, 22:37:06 - DEBUG - auth.service - signup with username: Sasa, fullname: Sasa Lala 
+8.11.2022, 22:38:25 - DEBUG - auth.service - signup with username: Popo, fullname: Popo Lolo 
+8.11.2022, 22:39:22 - DEBUG - auth.service - signup with username: Siso, fullname: Siso Vesimhoo 
+8.11.2022, 22:39:53 - DEBUG - auth.service - signup with username: Tata, fullname: Tata Lapi 
+8.11.2022, 22:46:50 - DEBUG - auth.service - signup with username: Mama, fullname: Mama Mia 
+9.11.2022, 0:50:31 - INFO - Server is running on port: 3030 
+9.11.2022, 0:51:08 - INFO - Server is running on port: 3030 
+9.11.2022, 0:51:13 - INFO - Server is running on port: 3030 
+9.11.2022, 0:51:16 - INFO - Server is running on port: 3030 
+9.11.2022, 0:51:19 - INFO - Server is running on port: 3030 
+9.11.2022, 0:51:31 - INFO - Server is running on port: 3030 
+9.11.2022, 0:52:22 - INFO - Server is running on port: 3030 
+9.11.2022, 0:56:26 - INFO - Server is running on port: 3030 
+9.11.2022, 0:58:32 - INFO - Server is running on port: 3030 
+9.11.2022, 0:58:37 - INFO - Server is running on port: 3030 
+9.11.2022, 0:58:41 - INFO - Server is running on port: 3030 
+9.11.2022, 0:58:55 - INFO - Server is running on port: 3030 
+9.11.2022, 0:59:26 - INFO - Server is running on port: 3030 
+9.11.2022, 1:00:36 - INFO - Server is running on port: 3030 
+9.11.2022, 1:01:09 - INFO - Server is running on port: 3030 
+9.11.2022, 1:02:49 - INFO - Server is running on port: 3030 
+9.11.2022, 1:04:17 - INFO - Server is running on port: 3030 
+9.11.2022, 1:04:40 - INFO - Server is running on port: 3030 
+9.11.2022, 1:05:12 - INFO - Server is running on port: 3030 
+9.11.2022, 1:05:39 - INFO - Server is running on port: 3030 
+9.11.2022, 1:06:26 - INFO - Server is running on port: 3030 
+9.11.2022, 1:13:51 - INFO - Server is running on port: 3030 
+9.11.2022, 1:14:20 - INFO - Server is running on port: 3030 
+9.11.2022, 1:15:06 - INFO - Server is running on port: 3030 
+9.11.2022, 1:16:07 - INFO - Server is running on port: 3030 
+9.11.2022, 1:20:14 - INFO - Server is running on port: 3030 
+9.11.2022, 1:21:09 - INFO - Server is running on port: 3030 
+9.11.2022, 1:25:01 - INFO - Server is running on port: 3030 
+9.11.2022, 1:25:54 - INFO - Server is running on port: 3030 
+9.11.2022, 2:56:35 - INFO - Server is running on port: 3030 
+9.11.2022, 2:57:10 - INFO - Server is running on port: 3030 
+9.11.2022, 2:58:55 - INFO - Server is running on port: 3030 
+9.11.2022, 11:46:43 - INFO - Server is running on port: 3030 
+9.11.2022, 12:32:42 - INFO - Server is running on port: 3030 
+9.11.2022, 12:38:21 - INFO - Server is running on port: 3030 
+9.11.2022, 12:38:35 - INFO - Server is running on port: 3030 
+9.11.2022, 12:38:51 - INFO - Server is running on port: 3030 
+9.11.2022, 12:38:57 - INFO - Server is running on port: 3030 
+9.11.2022, 12:39:10 - INFO - Server is running on port: 3030 
+9.11.2022, 12:41:53 - INFO - Server is running on port: 3030 
+9.11.2022, 12:42:12 - INFO - Server is running on port: 3030 
+9.11.2022, 12:42:57 - INFO - Server is running on port: 3030 
+9.11.2022, 12:43:04 - INFO - Server is running on port: 3030 
+9.11.2022, 12:43:11 - INFO - Server is running on port: 3030 
+9.11.2022, 12:43:39 - INFO - Server is running on port: 3030 
+9.11.2022, 12:44:03 - INFO - Server is running on port: 3030 
+9.11.2022, 12:44:11 - INFO - Server is running on port: 3030 
+9.11.2022, 12:44:28 - INFO - Server is running on port: 3030 
+9.11.2022, 12:44:59 - INFO - Server is running on port: 3030 
+9.11.2022, 12:45:04 - INFO - Server is running on port: 3030 
+9.11.2022, 12:46:03 - INFO - Server is running on port: 3030 
+9.11.2022, 12:46:50 - INFO - Server is running on port: 3030 
+9.11.2022, 12:47:01 - INFO - Server is running on port: 3030 
+9.11.2022, 12:47:14 - INFO - Server is running on port: 3030 
+9.11.2022, 12:47:43 - INFO - Server is running on port: 3030 
+9.11.2022, 12:48:07 - INFO - Server is running on port: 3030 
+9.11.2022, 12:48:16 - INFO - Server is running on port: 3030 
+9.11.2022, 12:48:25 - INFO - Server is running on port: 3030 
+9.11.2022, 12:49:29 - INFO - Server is running on port: 3030 
+9.11.2022, 12:50:06 - INFO - Server is running on port: 3030 
+9.11.2022, 12:50:28 - INFO - Server is running on port: 3030 
+9.11.2022, 12:51:00 - INFO - Server is running on port: 3030 
+9.11.2022, 12:51:19 - INFO - Server is running on port: 3030 
+9.11.2022, 12:51:27 - INFO - Server is running on port: 3030 
+9.11.2022, 12:51:35 - INFO - Server is running on port: 3030 
+9.11.2022, 12:51:41 - INFO - Server is running on port: 3030 
+9.11.2022, 12:51:51 - INFO - Server is running on port: 3030 
+9.11.2022, 12:55:00 - INFO - Server is running on port: 3030 
+9.11.2022, 12:55:06 - INFO - Server is running on port: 3030 
+9.11.2022, 12:55:19 - INFO - Server is running on port: 3030 
+9.11.2022, 12:56:02 - INFO - Server is running on port: 3030 
+9.11.2022, 12:56:23 - INFO - Server is running on port: 3030 
+9.11.2022, 12:57:13 - INFO - Server is running on port: 3030 
+9.11.2022, 12:57:25 - INFO - Server is running on port: 3030 
+9.11.2022, 13:23:55 - INFO - Server is running on port: 3030 
+9.11.2022, 13:44:47 - INFO - Server is running on port: 3030 
+9.11.2022, 13:45:02 - INFO - Server is running on port: 3030 
+9.11.2022, 13:45:20 - INFO - Server is running on port: 3030 
+9.11.2022, 13:45:30 - INFO - Server is running on port: 3030 
+9.11.2022, 13:45:42 - INFO - Server is running on port: 3030 
+9.11.2022, 13:45:46 - INFO - Server is running on port: 3030 
+9.11.2022, 13:45:50 - INFO - Server is running on port: 3030 
+9.11.2022, 13:45:59 - INFO - Server is running on port: 3030 
+9.11.2022, 13:46:43 - INFO - Server is running on port: 3030 
+9.11.2022, 13:47:13 - INFO - Server is running on port: 3030 
+9.11.2022, 13:48:01 - INFO - Server is running on port: 3030 
+9.11.2022, 13:48:57 - INFO - Server is running on port: 3030 
+9.11.2022, 13:49:22 - INFO - Server is running on port: 3030 
+9.11.2022, 13:50:51 - INFO - Server is running on port: 3030 
+9.11.2022, 13:51:21 - INFO - Server is running on port: 3030 
+9.11.2022, 13:51:35 - INFO - Server is running on port: 3030 
+9.11.2022, 13:53:28 - INFO - Server is running on port: 3030 
+9.11.2022, 14:16:56 - INFO - Server is running on port: 3030 
+9.11.2022, 14:18:43 - INFO - Server is running on port: 3030 
+9.11.2022, 14:19:05 - INFO - Server is running on port: 3030 
+9.11.2022, 14:19:11 - INFO - Server is running on port: 3030 
+9.11.2022, 14:19:16 - INFO - Server is running on port: 3030 
+9.11.2022, 14:19:20 - INFO - Server is running on port: 3030 
+9.11.2022, 14:19:33 - INFO - Server is running on port: 3030 
+9.11.2022, 14:19:58 - INFO - Server is running on port: 3030 
+9.11.2022, 14:20:32 - INFO - Server is running on port: 3030 
+9.11.2022, 14:21:16 - INFO - Server is running on port: 3030 
+9.11.2022, 14:23:02 - INFO - Server is running on port: 3030 
+9.11.2022, 14:23:23 - INFO - Server is running on port: 3030 
+9.11.2022, 14:24:07 - INFO - Server is running on port: 3030 
+9.11.2022, 14:24:09 - INFO - Server is running on port: 3030 
+9.11.2022, 14:24:47 - INFO - Server is running on port: 3030 
+9.11.2022, 14:24:59 - INFO - Server is running on port: 3030 
+9.11.2022, 14:25:13 - INFO - Server is running on port: 3030 
+9.11.2022, 14:25:30 - INFO - Server is running on port: 3030 
+9.11.2022, 14:25:47 - INFO - Server is running on port: 3030 
+9.11.2022, 14:26:19 - INFO - Server is running on port: 3030 
+9.11.2022, 14:26:22 - INFO - Server is running on port: 3030 
+9.11.2022, 14:26:25 - INFO - Server is running on port: 3030 
+9.11.2022, 14:26:40 - INFO - Server is running on port: 3030 
+9.11.2022, 14:27:08 - INFO - Server is running on port: 3030 
+9.11.2022, 14:27:14 - INFO - Server is running on port: 3030 
+9.11.2022, 14:27:42 - INFO - Server is running on port: 3030 
+9.11.2022, 14:27:53 - INFO - Server is running on port: 3030 
+9.11.2022, 14:27:58 - INFO - Server is running on port: 3030 
+9.11.2022, 14:28:22 - INFO - Server is running on port: 3030 
+9.11.2022, 14:28:32 - INFO - Server is running on port: 3030 
+9.11.2022, 14:28:39 - INFO - Server is running on port: 3030 
+9.11.2022, 14:29:00 - INFO - Server is running on port: 3030 
+9.11.2022, 14:29:12 - INFO - Server is running on port: 3030 
+9.11.2022, 14:29:28 - INFO - Server is running on port: 3030 
+9.11.2022, 14:29:40 - INFO - Server is running on port: 3030 
+9.11.2022, 14:29:51 - INFO - Server is running on port: 3030 
+9.11.2022, 14:31:41 - INFO - Server is running on port: 3030 
+9.11.2022, 14:32:09 - INFO - Server is running on port: 3030 
+9.11.2022, 14:32:24 - INFO - Server is running on port: 3030 
+9.11.2022, 14:32:36 - INFO - Server is running on port: 3030 
+9.11.2022, 14:32:50 - INFO - Server is running on port: 3030 
+9.11.2022, 14:33:05 - INFO - Server is running on port: 3030 
+9.11.2022, 14:33:12 - INFO - Server is running on port: 3030 
+9.11.2022, 14:33:46 - INFO - Server is running on port: 3030 
+9.11.2022, 14:34:07 - INFO - Server is running on port: 3030 
+9.11.2022, 14:36:28 - INFO - Server is running on port: 3030 
+9.11.2022, 14:36:40 - INFO - Server is running on port: 3030 
+9.11.2022, 14:37:13 - INFO - Server is running on port: 3030 
+9.11.2022, 14:42:05 - INFO - Server is running on port: 3030 
+9.11.2022, 17:12:09 - INFO - Server is running on port: 3030 
+9.11.2022, 17:18:59 - INFO - Server is running on port: 3030 
+9.11.2022, 17:19:24 - INFO - Server is running on port: 3030 
+9.11.2022, 17:21:41 - INFO - Server is running on port: 3030 
+9.11.2022, 17:21:53 - INFO - Server is running on port: 3030 
+9.11.2022, 17:22:59 - INFO - Server is running on port: 3030 
+9.11.2022, 17:25:03 - INFO - Server is running on port: 3030 
+9.11.2022, 17:25:23 - INFO - Server is running on port: 3030 
+9.11.2022, 17:40:45 - INFO - Server is running on port: 3030 
+9.11.2022, 17:44:48 - INFO - Server is running on port: 3030 
+9.11.2022, 17:45:15 - INFO - Server is running on port: 3030 
+9.11.2022, 17:51:12 - INFO - Server is running on port: 3030 
+9.11.2022, 18:14:11 - INFO - Server is running on port: 3030 
+9.11.2022, 18:14:17 - INFO - Server is running on port: 3030 
+9.11.2022, 18:14:25 - INFO - Server is running on port: 3030 
+9.11.2022, 18:14:32 - INFO - Server is running on port: 3030 
+10.11.2022, 2:05:36 - INFO - Server is running on port: 3030 
+10.11.2022, 2:14:51 - DEBUG - auth.service - signup with username: Guzzi, fullname: Nadav Vazana 
+10.11.2022, 2:15:39 - DEBUG - auth.service - signup with username: Guzzi, fullname: Nadav Vazana 
+10.11.2022, 2:16:12 - INFO - Server is running on port: 3030 
+10.11.2022, 2:16:21 - DEBUG - auth.service - signup with username: Guzzi, fullname: Nadav Vazana 
+10.11.2022, 2:22:29 - INFO - Server is running on port: 3030 
+10.11.2022, 2:23:07 - INFO - Server is running on port: 3030 
+10.11.2022, 2:24:25 - INFO - Server is running on port: 3030 
+10.11.2022, 2:25:15 - INFO - Server is running on port: 3030 
+10.11.2022, 2:25:40 - INFO - Server is running on port: 3030 
+10.11.2022, 2:26:39 - INFO - Server is running on port: 3030 
+10.11.2022, 2:27:19 - INFO - Server is running on port: 3030 
+10.11.2022, 2:27:57 - DEBUG - auth.service - signup with username: Guzzi, fullname: Nadav Vazana 
+10.11.2022, 2:29:11 - INFO - Server is running on port: 3030 
+10.11.2022, 2:31:14 - INFO - Server is running on port: 3030 
+10.11.2022, 2:31:39 - INFO - Server is running on port: 3030 
+10.11.2022, 2:32:11 - INFO - Server is running on port: 3030 
+10.11.2022, 2:33:57 - DEBUG - auth.service - signup with username: Mama, fullname: Mama Mia 
+10.11.2022, 2:58:31 - INFO - Server is running on port: 3030 
+10.11.2022, 2:59:33 - DEBUG - auth.service - signup with username: Boris, fullname: Boris Rejkov 
+10.11.2022, 2:59:36 - DEBUG - auth.service - signup with username: Boris, fullname: Boris Rejkov 
+10.11.2022, 3:00:27 - DEBUG - auth.service - signup with username: Tata, fullname: Tata Maayan 
+10.11.2022, 11:14:36 - INFO - Server is running on port: 3030 
+10.11.2022, 11:30:31 - INFO - Server is running on port: 3030 
+10.11.2022, 12:04:34 - INFO - Server is running on port: 3030 
+10.11.2022, 12:19:47 - INFO - Server is running on port: 3030 
+10.11.2022, 12:21:15 - DEBUG - auth.service - signup with username: Mama, fullname: Mama Mia 
+10.11.2022, 12:21:45 - DEBUG - auth.service - signup with username: Guzzi, fullname: Nadav Vazana 
+10.11.2022, 13:26:42 - INFO - Server is running on port: 3030 
+10.11.2022, 13:32:39 - INFO - Server is running on port: 3030 
+10.11.2022, 13:32:51 - INFO - Server is running on port: 3030 
+10.11.2022, 13:41:55 - DEBUG - auth.service - signup with username: Boria, fullname: Boris Rejkov 
+10.11.2022, 14:00:43 - INFO - Server is running on port: 3030 
+10.11.2022, 15:28:40 - INFO - Server is running on port: 3030 
+10.11.2022, 16:31:54 - INFO - Server is running on port: 3030 
+10.11.2022, 16:32:03 - INFO - Server is running on port: 3030 
+10.11.2022, 16:33:42 - INFO - Server is running on port: 3030 
+10.11.2022, 16:33:55 - INFO - Server is running on port: 3030 
+10.11.2022, 16:41:30 - INFO - Server is running on port: 3030 
+10.11.2022, 16:41:43 - INFO - Server is running on port: 3030 
+10.11.2022, 16:42:00 - INFO - Server is running on port: 3030 
+10.11.2022, 16:44:41 - INFO - Server is running on port: 3030 
+10.11.2022, 16:47:32 - INFO - Server is running on port: 3030 
+10.11.2022, 17:15:38 - INFO - Server is running on port: 3030 
+10.11.2022, 17:17:23 - INFO - Server is running on port: 3030 
+10.11.2022, 17:17:32 - INFO - Server is running on port: 3030 
+10.11.2022, 17:17:49 - INFO - Server is running on port: 3030 
+10.11.2022, 17:29:12 - INFO - Server is running on port: 3030 
+10.11.2022, 17:44:51 - INFO - Server is running on port: 3030 
+10.11.2022, 17:47:38 - INFO - Server is running on port: 3030 
+10.11.2022, 17:48:08 - INFO - Server is running on port: 3030 
+10.11.2022, 17:49:58 - INFO - Server is running on port: 3030 
+10.11.2022, 17:50:09 - INFO - Server is running on port: 3030 
+10.11.2022, 17:50:31 - INFO - Server is running on port: 3030 
+10.11.2022, 17:50:40 - INFO - Server is running on port: 3030 
+10.11.2022, 17:51:10 - INFO - Server is running on port: 3030 
