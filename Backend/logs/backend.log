@@ -269,3 +269,4 @@
 10.11.2022, 19:55:11 - DEBUG - auth.service - signup with username: Kurt, fullname: Kurt Cobain 
 10.11.2022, 19:59:19 - DEBUG - auth.service - signup with username: Nadav, fullname: Nadav Vazana 
 10.11.2022, 20:03:29 - INFO - Server is running on port: 3030 
+10.11.2022, 21:59:38 - INFO - Server is running on port: 3030 
