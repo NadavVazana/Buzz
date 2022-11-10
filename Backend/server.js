@@ -8,7 +8,7 @@ const http = require('http').createServer(app)
 // Express App Config
 app.use(cookieParser())
 app.use(express.json())
-// app.use(express.static('public'))
+app.use(express.static('dist'))
 
 if (process.env.NODE_ENV === 'production') {
     // Express serve static files on production environment
@@ -50,7 +50,7 @@ app.get('/**', (req, res) => {
 })
 
 const logger = require('./services/logger.service.js')
-const port = process.env.PORT || 3030
+const port = process.env.PORT || 5173
 http.listen(port, () => {
     logger.info('Server is running on port: ' + port)
 })
