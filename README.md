@@ -70,7 +70,7 @@ The landing page in which the user can get the first impression of the app and a
 
 A simple sign in page which provides the user to route to the sign up page.
 
-<img sec="https://res.cloudinary.com/ds8xkm0ue/image/upload/v1668103517/Buzz/6_xt4wau.png" />
+<img src="https://res.cloudinary.com/ds8xkm0ue/image/upload/v1668103517/Buzz/6_xt4wau.png" />
 
 ### Sign up
 
@@ -86,7 +86,7 @@ Logged in users can send messages to other users. the addressee will get a notif
 
 <img src="https://res.cloudinary.com/ds8xkm0ue/image/upload/v1668103516/Buzz/3_fnyxgl.png" />
 
-img src="https://res.cloudinary.com/ds8xkm0ue/image/upload/v1668103520/Buzz/5_vqezgd.png" />
+<img src="https://res.cloudinary.com/ds8xkm0ue/image/upload/v1668103520/Buzz/5_vqezgd.png" />
 
 ### Users Login Status
 
